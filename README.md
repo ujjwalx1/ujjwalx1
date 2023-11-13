@@ -1,4 +1,4 @@
-## 👋 Hi, I'm @ujjwalx1!
+## 👋 Hi, I'm @ujjwal!
 
 I'm a Java full-stack developer with expertise in React, Redux, Spring Boot, SQL, PostgreSQL, Hibernate, and JWT. I'm passionate about building scalable and secure web applications.
 
